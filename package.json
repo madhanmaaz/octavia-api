@@ -1,0 +1,39 @@
+{
+  "name": "octavia-api",
+  "version": "1.0.0",
+  "description": "octavia-api is a api for octavia-db. use with octavia-client",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhanmaaz/octavia-api.git"
+  },
+  "author": "madhanmaaz",
+  "license": "ISC",
+  "dependencies": {
+    "octavia-db": "^2.0.0"
+  },
+  "keywords": [
+    "database",
+    "database-api",
+    "encryption",
+    "nodejs",
+    "octaviadb",
+    "octavia-db",
+    "octavia-api",
+    "octavia-client",
+    "express-database",
+    "express-database-api",
+    "octavia-database",
+    "octavia-database-api",
+    "express-db",
+    "express-db-api"
+  ],
+  "bugs": {
+    "url": "https://github.com/madhanmaaz/octavia-api/issues"
+  },
+  "homepage": "https://github.com/madhanmaaz/octavia-api#readme"
+}
