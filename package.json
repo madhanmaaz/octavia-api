@@ -1,6 +1,6 @@
 {
   "name": "octavia-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "octavia-api is a api for octavia-db. use with octavia-client",
   "main": "index.js",
   "scripts": {
