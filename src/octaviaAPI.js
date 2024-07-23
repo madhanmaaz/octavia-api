@@ -142,5 +142,6 @@ module.exports = {
             Object.assign(OCTAVIACONFIG, options)
             return createRouter(OCTAVIACONFIG)
         }
-    }
+    },
+    OctaviaDB
 }
